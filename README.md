@@ -21,6 +21,7 @@ This repository provides a step-by-step guide to set up a WordPress website loca
    - Click **Create a New Site**.
    - Choose a name for your site (e.g., `my-wordpress-site`).
    - Select the **Preferred** environment or customize it to install a specific PHP version, MySQL version, and web server.
+   - Choose a **username**, **password** and add your **email address**
    - Click **Finish** and wait for Local to set up your WordPress site.
 
 3. **Access Your Local WordPress Site:**
@@ -30,7 +31,7 @@ This repository provides a step-by-step guide to set up a WordPress website loca
 
 ---
 
-## Step 2: Deploy Your WordPress Site Online
+## Step 2: Deploy Your WordPress Site Online (Does not apply for workshops)
 
 To make your site accessible on the internet, you'll need to migrate it from your local environment to a live server.
 
